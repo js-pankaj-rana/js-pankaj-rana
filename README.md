@@ -1,6 +1,7 @@
 ## Pankaj Rana (📫 you can write me pankaj.csdeveloper@gmail.com) 
-### 👋 Hello, Currently, am working with R Systems International Ltd., as Senior Software Engineer. I love javascript programming, coding, debugging, and unit testing. I have expert level of knowledge in ReactJS development, because its been 5 year continouesly working with this React skillset. Apart from this I have intermediate level of knowledge in nodejs, express, mongodb, rest api, and node backend layer. 
-### During my tenure of working, I did 12 major US's projects, 1 for hospital billing systems, 2 is for medical insurance TPA, 2 is for real estate, 1 for e-commerce, 1 for automobile sector, 1 for IVR systems, 1 for mutual funds, 1 for argriculture, 2 for digital publishing sector. 
+👋 Hello, Currently, am working with R Systems International Ltd., as Senior Software Engineer. I love javascript programming, coding, debugging, and unit testing. I have expert level of knowledge in ReactJS development, because its been 5 year continouesly working with this React skillset. Apart from this I have intermediate level of knowledge in nodejs, express, mongodb, rest api, and node backend layer. 
+
+During my tenure of working, I did 12 major US's projects, 1 for hospital billing systems, 2 is for medical insurance TPA, 2 is for real estate, 1 for e-commerce, 1 for automobile sector, 1 for IVR systems, 1 for mutual funds, 1 for argriculture, 2 for digital publishing sector. 
 
 
 ### Tech Skills
